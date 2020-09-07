@@ -161,8 +161,4 @@ The `__stats__()` function is for retrieving module statistics, eg number of use
 through the `/stats` command, which is only available to the bot owner.
 
 
-## How To Deploy 
 
-<p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/F36/FilterBot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Press to Takeoff" width="490px"></a></p>
-<br>
