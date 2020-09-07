@@ -2,6 +2,7 @@
 {
   "name": "Filter Bot",
   "description": "Modular Telegram group filter bot!",
+  "logo": "https://telegra.ph/file/7a11b40c5ddb3832b035d.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/prgofficial/FilterBot",
+  "repository": "https://github.com/F36/FilterBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +22,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "680815375"
+      "value": "864254084"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "prgofficial"
+      "value": "Decomposed"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,15 +42,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "680815375"
+      "value": "864254084"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "680815375"
+      "value": "864254084"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "680815375"
+      "value": "864254084"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
