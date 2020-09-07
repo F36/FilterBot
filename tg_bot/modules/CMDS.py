@@ -16,7 +16,7 @@ def media_telegraph(bot: Bot, update: Update):
 
 @run_async
 def post_telegraph(bot: Bot, update: Update, args: List[str]):
-    short_name = "Created By @prgofficial 😬"
+    short_name = "Created By @Decomposed 😬"
     msg = update.effective_message # type: Optional[Message]
     telegraph = Telegraph()
     r = telegraph.create_account(short_name=short_name)
@@ -34,8 +34,8 @@ def post_telegraph(bot: Bot, update: Update, args: List[str]):
 
 __help__ = """
 ○ My Name : *Mike Ehrmantraut*
-○ Creator : [prgofficial](https://t.me/prgofficial)
-○ Credits : `Everyone in this journey`
+○ Creator : [Decomposed](https://t.me/Decomposed)
+○ Credits : `Prgofficial`
 ○ Language : Python3
 ○ Server : Heroku
 ○ Build Status : V4 `[+0.4]`
